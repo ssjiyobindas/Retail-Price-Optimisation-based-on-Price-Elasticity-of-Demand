@@ -8,7 +8,7 @@ Welcome to a journey of data-driven pricing excellence! In this machine learning
 
 In the intricate landscape of business, pricing products demands meticulous consideration. This project zeroes in on products with sales sensitivity to price variations, exploring the nuances of price elasticity of demand (Epd). Epd measures the degree to which desire for a product changes with price fluctuations. Economists employ elasticity to quantify this sensitivity, expressed mathematically as the percentage change in quantity demanded divided by the percentage change in price.
 
-**Mathematical Representation:** e = (ΔQ / Q) / (ΔP / P)
+**Mathematical Representation:** e = (%ΔQ / %ΔP)
 
 ## Business Problem Statement
 
